@@ -10,6 +10,7 @@
     "pathimg": "./Haruka.jpg",
     "BotKey": "HbDSHYoxZmAKAvK",
     "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
     "auto_ai_japri": false,
     "auto_ai_grup": false,
     "auto_welcomeMsg": true,
